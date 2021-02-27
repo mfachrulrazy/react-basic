@@ -12,6 +12,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### React Router DOM
 
+### Fetch API
+
 
 ## Available Scripts
 
